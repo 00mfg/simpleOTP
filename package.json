@@ -1,0 +1,21 @@
+{
+  "name": "simpleotp",
+  "version": "1.0.0",
+  "description": "一键OTP配置",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "lc",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/github.com/00mfg.git"
+  },
+  "bugs": {
+    "url": "https://github.com/github.com/00mfg/issues"
+  },
+  "homepage": "https://github.com/github.com/00mfg#readme"
+}
